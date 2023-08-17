@@ -43,5 +43,5 @@ I used ChatGPT for assisting in the development process, providing insights, and
 
 ## Contact
 
-For any inquiries or collaboration, please contact Michael Pereira at [email@example.com](mailto:email@example.com).
+For any inquiries or collaboration, please contact Michael Pereira at [email@example.com](mailto:pereiramichael128@gmail.com).
 
